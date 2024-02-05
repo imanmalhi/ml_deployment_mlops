@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ml-project
+Version: 1.0.0
+Summary: A small python package for ML app
+Home-page: https://github.com/imanmalhi/ml_deployment_mlops
+Author: imanmalhi
+Author-email: imanmalhi7@gmail.com
+Project-URL: Bug Tracker, https://github.com/imanmalhi/ml_deployment_mlops/issues
